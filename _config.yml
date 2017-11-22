@@ -12,7 +12,7 @@ github_repo: "https://github.com/coder957/coder957.github.io.git" # you code rep
 # Sidebar settings
 sidebar: true                           # 是否开启侧边栏.
 sidebar-about-description: "Fuck"
-sidebar-avatar:/img/avatar-by.JPG           # 你的个人头像 这里你可以改成我在img文件夹中的两张备用照
+#sidebar-avatar:/img/avatar-by.JPG           # 你的个人头像 这里你可以改成我在img文件夹中的两张备用照
 
 # SNS settings
 RSS: false
