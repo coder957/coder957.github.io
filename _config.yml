@@ -10,19 +10,15 @@ baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/coder957/coder957.github.io.git" # you code repository
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
-
-
+sidebar: true                           # 是否开启侧边栏.
+sidebar-about-description: "Fuck"
+sidebar-avatar:/img/avatar-m      # 你的个人头像 这里你可以改成我在img文件夹中的两张备用照
 
 # SNS settings
 RSS: false
 zhihu_username:   怎么这么烦
 github_username:   coder957
-facebook_username:  baiying.qiu.7
 jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
 
 
 
