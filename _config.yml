@@ -1,23 +1,23 @@
 # Site settings
-title: linhuilin
+title: MyWorld
 SEOTitle: Coder957's space
 header-img: img/post-bg-desk.jpg
 email: 1873551810@qq.com
 description: "身体和灵魂都不能落下"
-keyword: "BY, BY Blog, coder957,前端,网页"
+keyword: "coder957,分享"
 url: "http://coder957.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/coder957/coder957.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # 是否开启侧边栏.
-sidebar-about-description: "Fuck"
+sidebar-about-description: "日常分享知识，拒绝拖延症"
 #sidebar-avatar:/img/avatar-by.JPG           # 你的个人头像 这里你可以改成我在img文件夹中的两张备用照
 
 # SNS settings
 RSS: false
-zhihu_username:   怎么这么烦
-github_username:   coder957
+#zhihu_username:   怎么这么烦
+#github_username:   coder957
 
 
 # Build settings
@@ -46,15 +46,6 @@ kramdown:
 
 
 
-# 评论系统
-# Disqus settings（https://disqus.com/）
-#disqus_username: qiubaiying
-
-# 多说 将于2017年6月1日正式关停服务，建议使用 Disqus（http://dev.duoshuo.com/threads/58d1169ae293b89a20c57241）
-# Duoshuo settings
-# duoshuo_username: qiubaiying
-# Share component is depend on Comment so we can NOT use share only.
-# duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
 
 
@@ -84,15 +75,15 @@ service-worker: true
 
 
 # Friends
-friends: [
-    {
-        title: "zhihu",
-        href: "http://zhihu.com"
-    },{
-        title: "CSDN",
-        href: "http://www.CSDN.com"
-    },{
-        title: "coder957",
-        href: "https://github.com/coder957"
-    }
-]
+#friends: [
+#    {
+#       title: "zhihu",
+#        href: "http://zhihu.com"
+#    },{
+#        title: "CSDN",
+#        href: "http://www.CSDN.com"
+#    },{
+#        title: "coder957",
+#       href: "https://github.com/coder957"
+#    }
+#]
